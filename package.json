@@ -1,7 +1,7 @@
 {
   "name": "ppi-2",
   "version": "1.0.0",
-  "description": "Atividade 2",
+  "description": "Exame",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EdwynWs/PPI-2.git"
+    "url": "git+https://github.com/EdwynWs/Exame.git"
   },
   "author": "Edwyn Wylly Horacio da SIlva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EdwynWs/PPI-2/issues"
+    "url": "https://github.com/EdwynWs/Exame.git"
   },
-  "homepage": "https://github.com/EdwynWs/PPI-2#readme",
+  "homepage": "https://github.com/EdwynWs/Exame.git#readme",
   "dependencies": {
     "express": "^4.21.1"
   }
